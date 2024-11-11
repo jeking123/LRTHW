@@ -13,3 +13,7 @@ This exercise covered basic comment usage in Ruby. and how the # "Pound" Charact
 ## Exercise 3
 
 Using different math operators, and how the work in Ruby.
+
+## Exercise 4
+
+Assigning variables, and using the for mathematical evaluations.
