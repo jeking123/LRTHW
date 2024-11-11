@@ -9,3 +9,7 @@ This exercise was an introduction to printing strings, and running code with the
 ## Exercise 2
 
 This exercise covered basic comment usage in Ruby. and how the # "Pound" Character can be used.
+
+## Exercise 3
+
+Using different math operators, and how the work in Ruby.
