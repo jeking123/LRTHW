@@ -16,4 +16,8 @@ Using different math operators, and how the work in Ruby.
 
 ## Exercise 4
 
-Assigning variables, and using the for mathematical evaluations.
+Assigning variables, and using them for mathematical evaluations.
+
+## Exercise 5
+
+Using variables to assign values, do simple expressions, and output it all within strings.

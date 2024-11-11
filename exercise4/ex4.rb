@@ -29,6 +29,7 @@ puts "We can transport #{carpool_capacity} people today."
 puts "We have #{passengers} to carpool today."
 puts "We need to put about #{average_passengers_per_car} in each car."
 
+# Explaining provided error code.
 # There are 100 cars available.
 # There are only 30 drivers available.
 # There will be 70 empty cars today.
